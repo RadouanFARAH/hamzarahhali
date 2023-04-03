@@ -1,0 +1,68 @@
+#logo {
+   width:250px; 
+}
+
+a {
+    margin: 50px;
+    background: black;
+    padding: 10px;
+    color: white;
+    border-radius: 50px;
+    text-decoration: none;
+}
+
+a:hover {
+    background:white;
+    color: black;
+}
+
+#nav {
+    margin-left: 25%;
+    position: fixed;
+    top: 36px;
+}
+
+#about {
+    background: rgb(248, 113, 113);
+    height: 80vh;
+}
+#service {
+    background: rgb(137, 137, 253);
+    height: 80vh;
+}
+#work {
+    background: rgb(131, 245, 131);
+    height: 80vh;
+}
+#contact {
+    background: rgb(248, 248, 113);
+    height: 80vh;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+h1 {
+    font-size: 64px;
+}
+
+#photo {
+    width: 400px;
+    margin-left: calc(100% - 400px);
+}
+#info {
+    margin-left: 10%;
+    margin-top: -500px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#3onwan {
+    font-family: fantasy;
+}
+
+.carre{
+    width:100px;
+    height: 100px;
+    background: white;
+}
